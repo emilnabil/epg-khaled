@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+<channel id="ART Aflam 1">1:0:1:2c2:7:800:dca0000:0:0:0:</channel> <!--AFLAM_1-->
+<channel id="ART Aflam 2">1:0:1:2c4:7:800:dca0000:0:0:0:</channel> <!-- AFLAM 2-->
+<channel id="ART Cinema">1:0:1:2c5:7:800:dca0000:0:0:0:</channel> <!-- Cinema-->
+<channel id="Hekayat">1:0:1:2bf:7:800:dca0000:0:0:0:</channel> <!-- Hekayat--> <channel id="Hekayat 2">1:0:1:2c1:7:800:dca0000:0:0:0:</channel> <!-- Hekayat 2-->
+<channel id="OSN Yahala Cinema HD ARB">1:0:19:132:3:800:dca0000:0:0:0:</channel> <!-- osn yh cinema-->
+<channel id="OSN Ya Hala">1:0:19:135:3:800:dca0000:0:0:0:</channel> <!-- Yahala_HD-->
+<channel id="OSN Ya Hala Al Oula">1:0:19:119d:2d:800:dca0000:0:0:0:</channel> <!-- Yahala_Oula_HD-->
+<channel id="Al Yawm HD ARB">1:0:1:a8d:1:2a:dc00000:0:0:0:</channel> <!-- Al yawm-->
+<channel id="Al Safwa">1:0:1:a8e:1:2a:dc00000:0:0:0:</channel> <!-- alsafwa-->
+<channel id="Cinema 1 ARB">1:0:1:a8f:1:2a:dc00000:0:0:0:</channel> <!-- Cinema 1-->
+<channel id="Cinema 2 ARB">1:0:1:a90:1:2a:dc00000:0:0:0:</channel> <!-- Cinema 2-->
+<channel id="Arabic Series Channel ARB">1:0:19:a92:1:2a:dc00000:0:0:0:</channel> <!-- series channel hd-->
+<channel id="Arabic Series Plus2 ARB">1:0:19:a91:1:2a:dc00000:0:0:0:</channel> <!-- series+2 hd-->
+<channel id="Fann ARB">1:0:1:a93:1:2a:dc00000:0:0:0:</channel> <!-- Fann-->
+<channel id="Music Now">1:0:1:a94:1:2a:dc00000:0:0:0:</channel> <!-- Music_NOW_HD-->
+<channel id="OSN Movies">1:0:19:1197:2d:800:dca0000:0:0:0:</channel> <!-- osn movies-->
+<channel id="OSN Action">1:0:19:12e:3:800:dca0000:0:0:0:</channel> <!-- Movies_Action_HD-->
+<channel id="OSN Movies Disney">1:0:19:1622:236:800:dca0000:0:0:0:</channel> <!-- Movies_Disney_HD-->
+<channel id="OSN Enigma">1:0:19:1198:2d:800:dca0000:0:0:0:</channel> <!-- Movies_Enigma_HD-->
+<channel id="OSN Movies First">1:0:19:12d:3:800:dca0000:0:0:0:</channel> <!-- Movies_First_HD-->
+<channel id="OSN Movies First+2">1:0:19:1625:236:800:dca0000:0:0:0:</channel> <!-- Movies_First_HD_2h-->
+<channel id="Disney Channel ARB">1:0:19:12c4:30:800:dca0000:0:0:0:</channel> <!-- disney hd-->
+<channel id="Disney XD">1:0:19:12c6:30:800:dca0000:0:0:0:</channel> <!-- Disney XD-->
+<channel id="Star World ARB">1:0:19:3f0:a:800:dca0000:0:0:0:</channel> <!-- Star World HD-->
+<channel id="Star Movies ARB">1:0:19:3ef:a:800:dca0000:0:0:0:</channel> <!-- Star Movies HD-->
+<channel id="National Geographic Wild ARB">1:0:19:3ec:a:800:dca0000:0:0:0:</channel> <!-- Nat Geo Wild HD-->
+<channel id="Nat Geo People HD">1:0:19:3ed:a:800:dca0000:0:0:0:</channel> <!-- NAT_GEO_People_hd-->
+<channel id="Nat Geo HD">1:0:19:3ee:a:800:dca0000:0:0:0:</channel> <!-- National_Geographic_HD-->
+<channel id="Discovery HD">1:0:19:1621:236:800:dca0000:0:0:0:</channel> <!-- Discovery_HD-->
+<channel id="Discovery Science HD">1:0:19:12c3:30:800:dca0000:0:0:0:</channel> <!-- Discovery_Science_HD-->
+<channel id="Discovery ID">1:0:19:1624:236:800:dca0000:0:0:0:</channel> <!-- Discovery_IDX_HD-->
+<channel id="Travel ARB">1:0:1:</channel> <!-- Travel-->
+<channel id="E! Entertainment HD">1:0:19:131:3:800:dca0000:0:0:0:</channel> <!-- E!_HD-->
+<channel id="H2 HD">1:0:19:1623:236:800:dca0000:0:0:0:</channel> <!-- History_2_HD-->
+<channel id="History HD">1:0:19:12c2:30:800:dca0000:0:0:0:</channel> <!-- History_HD-->
+<channel id="OSN Comedy">1:0:19:3f1:a:800:dca0000:0:0:0:</channel> <!-- Comedy_Central_HD-->
+<channel id="OSN Comedy">1:0:19:119c:2d:800:dca0000:0:0:0:</channel> <!-- Comedy_HD-->
+<channel id="OSN Living">1:0:19:1196:2d:800:dca0000:0:0:0:</channel> <!-- Living_HD-->
+<channel id="OSN Series First">1:0:19:130:3:800:dca0000:0:0:0:</channel> <!-- SERIES_FIRST_HD-->
+<channel id="E! Entertainment HD">1:0:19:131:3:800:dca0000:0:0:0:</channel> <!-- E! HD -->
+<channel id="OSN Kid Zone TV">1:0:1:ce:2:800:dca0000:0:0:0:</channel> <!-- Kid Zone -->
+<channel id="Nick Jr">1:0:19:3e9:a:800:dca0000:0:0:0:</channel> <!-- Nick Jr -->
+<channel id="NickToons HD">1:0:19:12c1:30:800:dca0000:0:0:0:</channel> <!-- Nick Toons-->
+<channel id="Nickelodeon HD">1:0:19:161f:236:800:dca0000:0:0:0:</channel> <!-- Nickelodeon-->
+<channel id="MTV Live HD">1:0:19:1620:236:800:dca0000:0:0:0:</channel> <!-- MTV Live HD-->
+<channel id="Baby_TV Arabic">1:0:19:7d9:14:800:dca0000:0:0:0:</channel> <!-- Baby TV-->
+<channel id="GMA Life TV">1:0:1:d3:2:800:dca0000:0:0:0:</channel> <!-- GMA Life TV-->
+<channel id="GMA News TV">1:0:1:cb:2:800:dca0000:0:0:0:</channel> <!-- GMA News TV-->
+<channel id="GMA Pinoy TV">1:0:1:ca:2:800:dca0000:0:0:0:</channel> <!-- GMA Pinoy TV-->
+<channel id="Aksyon TV">1:0:1:dc:2:800:dca0000:0:0:0:</channel> <!-- Aksyon TV-->
+<channel id="ANC">1:0:1:e0:2:800:dca0000:0:0:0:</channel> <!-- ANC-->
+<channel id="Bloomberg">1:0:1:c9:2:800:dca0000:0:0:0:</channel> <!-- Bloomberg-->
+<channel id="CNBC Arabia">1:0:1:712:12:800:dca0000:0:0:0:</channel> <!-- CNBC ARABIYA-->
+<channel id="Crime \\u0026 Investigation Network">1:0:1:d4:2:800:dca0000:0:0:0:</channel> <!-- C I-->
+<channel id="Cine Mo">1:0:1:df:2:800:dca0000:0:0:0:</channel> <!-- CineMo-->
+<channel id="Cinema One Global">1:0:1:d8:2:800:dca0000:0:0:0:</channel> <!-- Cinema One Global TV-->
+<channel id="France 24 English">1:0:1:7d3:14:800:dca0000:0:0:0:</channel> <!-- France 24 Eng-->
+<channel id="Myx">1:0:1:d1:2:800:dca0000:0:0:0:</channel> <!-- Myx-->
+<channel id="OSN Mezze">1:0:19:1195:2d:800:dca0000:0:0:0:</channel> <!-- OSN Mezze-->
+<channel id="OSN News">1:0:19:12f:3:800:dca0000:0:0:0:</channel> <!-- OSN News-->
+<channel id="Sky News HD">1:0:19:7df:14:800:dca0000:0:0:0:</channel> <!-- Sky News Arabia HD-->
+<channel id="Beity TV">1:0:1:6:262:2be:dc00000:0:0:0:</channel> <!-- Beity TV-->
+</channels>
+
+
