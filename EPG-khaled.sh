@@ -1,43 +1,4 @@
 #!/bin/sh
 #
 
-wget -O /etc/epgimport/khaled.epg.sources.xml "https://raw.githubusercontent.com/emilnabil/epg-khaled/main/khaled.epg.sources.xml"
-wget -O /etc/epgimport/khaled.epg.channels.xml "https://raw.githubusercontent.com/emilnabil/epg-khaled/main/khaled.epg.channels.xml"
-wget -O /etc/epgimport/khaled2.epg.channels.xml "https://raw.githubusercontent.com/emilnabil/epg-khaled/main/khaled2.epg.channels.xml"
-wget -O /etc/epgimport/khaled3.epg.channels.xml "https://raw.githubusercontent.com/emilnabil/epg-khaled/main/khaled3.epg.channels.xml"
-wget -O /etc/epgimport/khaled4.epg.channels.xml "https://raw.githubusercontent.com/emilnabil/epg-khaled/main/khaled4.epg.channels.xml"
-wget -O /etc/epgimport/khaled5.epg.channels.xml "https://raw.githubusercontent.com/emilnabil/epg-khaled/main/khaled5.epg.channels.xml"
-wget -O /etc/epgimport/khaled6.epg.channels.xml "https://raw.githubusercontent.com/emilnabil/epg-khaled/main/khaled6.epg.channels.xml"
-wget -O /etc/epgimport/ar_osn.xmltv "https://raw.githubusercontent.com/Fazzani/grab/master/ar_osn.xmltv"
-wget -O /etc/epgimport/ar_osn2.xmltv "https://raw.githubusercontent.com/Fazzani/grab/master/ar_osn2.xmltv"
-wget -O /etc/epgimport/ar_osn3.xmltv "https://raw.githubusercontent.com/Fazzani/grab/master/ar_osn3.xmltv"
-wget -O /etc/epgimport/ar_osn4.xmltv "https://raw.githubusercontent.com/Fazzani/grab/master/ar_osn4.xmltv"
-wget -O /etc/epgimport/ar_osn5.xmltv "https://raw.githubusercontent.com/Fazzani/grab/master/ar_osn5.xmltv"
-wget -O /etc/epgimport/ar_arab.xmltv "https://raw.githubusercontent.com/Fazzani/grab/master/ar_arab.xmltv"
-wget -O /etc/epgimport/ar_el_cinema.xmltv "https://raw.githubusercontent.com/Fazzani/grab/master/ar_el_cinema.xmltv"
-wget -O /etc/epgimport/ar_bein.xmltv "https://raw.githubusercontent.com/Fazzani/grab/master/ar_bein.xmltv"
-wget -O /etc/epgimport/jawwytv.xml "https://raw.githubusercontent.com/MOHAMED19OS/XMLTV/main/jawwytv.xml"
-wget -O /etc/epgimport/khaled.xml "https://raw.githubusercontent.com/emilnabil/epg-khaled/main/khaled.xml"
-wget -O /etc/epgimport/khaled1.xml "https://raw.githubusercontent.com/emilnabil/epg-khaled/main/khaled1.xml"
-exit 0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+echo "IHdnZXQgLU8gL2V0Yy9lcGdpbXBvcnQva2hhbGVkLmVwZy5zb3VyY2VzLnhtbCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2VtaWxuYWJpbC9lcGcta2hhbGVkL21haW4va2hhbGVkLmVwZy5zb3VyY2VzLnhtbCIgd2dldCAtTyAvZXRjL2VwZ2ltcG9ydC9raGFsZWQuZXBnLmNoYW5uZWxzLnhtbCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2VtaWxuYWJpbC9lcGcta2hhbGVkL21haW4va2hhbGVkLmVwZy5jaGFubmVscy54bWwiIHdnZXQgLU8gL2V0Yy9lcGdpbXBvcnQva2hhbGVkMi5lcGcuY2hhbm5lbHMueG1sICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZW1pbG5hYmlsL2VwZy1raGFsZWQvbWFpbi9raGFsZWQyLmVwZy5jaGFubmVscy54bWwiIHdnZXQgLU8gL2V0Yy9lcGdpbXBvcnQva2hhbGVkMy5lcGcuY2hhbm5lbHMueG1sICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZW1pbG5hYmlsL2VwZy1raGFsZWQvbWFpbi9raGFsZWQzLmVwZy5jaGFubmVscy54bWwiIHdnZXQgLU8gL2V0Yy9lcGdpbXBvcnQva2hhbGVkNC5lcGcuY2hhbm5lbHMueG1sICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZW1pbG5hYmlsL2VwZy1raGFsZWQvbWFpbi9raGFsZWQ0LmVwZy5jaGFubmVscy54bWwiIHdnZXQgLU8gL2V0Yy9lcGdpbXBvcnQva2hhbGVkNS5lcGcuY2hhbm5lbHMueG1sICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZW1pbG5hYmlsL2VwZy1raGFsZWQvbWFpbi9raGFsZWQ1LmVwZy5jaGFubmVscy54bWwiIHdnZXQgLU8gL2V0Yy9lcGdpbXBvcnQva2hhbGVkNi5lcGcuY2hhbm5lbHMueG1sICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZW1pbG5hYmlsL2VwZy1raGFsZWQvbWFpbi9raGFsZWQ2LmVwZy5jaGFubmVscy54bWwiIHdnZXQgLU8gL2V0Yy9lcGdpbXBvcnQvYXJfb3NuLnhtbHR2ICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRmF6emFuaS9ncmFiL21hc3Rlci9hcl9vc24ueG1sdHYiIHdnZXQgLU8gL2V0Yy9lcGdpbXBvcnQvYXJfb3NuMi54bWx0diAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0ZhenphbmkvZ3JhYi9tYXN0ZXIvYXJfb3NuMi54bWx0diIgd2dldCAtTyAvZXRjL2VwZ2ltcG9ydC9hcl9vc24zLnhtbHR2ICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRmF6emFuaS9ncmFiL21hc3Rlci9hcl9vc24zLnhtbHR2IiB3Z2V0IC1PIC9ldGMvZXBnaW1wb3J0L2FyX29zbjQueG1sdHYgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9GYXp6YW5pL2dyYWIvbWFzdGVyL2FyX29zbjQueG1sdHYiIHdnZXQgLU8gL2V0Yy9lcGdpbXBvcnQvYXJfb3NuNS54bWx0diAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0ZhenphbmkvZ3JhYi9tYXN0ZXIvYXJfb3NuNS54bWx0diIgd2dldCAtTyAvZXRjL2VwZ2ltcG9ydC9hcl9hcmFiLnhtbHR2ICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRmF6emFuaS9ncmFiL21hc3Rlci9hcl9hcmFiLnhtbHR2IiB3Z2V0IC1PIC9ldGMvZXBnaW1wb3J0L2FyX2VsX2NpbmVtYS54bWx0diAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0ZhenphbmkvZ3JhYi9tYXN0ZXIvYXJfZWxfY2luZW1hLnhtbHR2IiB3Z2V0IC1PIC9ldGMvZXBnaW1wb3J0L2FyX2JlaW4ueG1sdHYgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9GYXp6YW5pL2dyYWIvbWFzdGVyL2FyX2JlaW4ueG1sdHYiIHdnZXQgLU8gL2V0Yy9lcGdpbXBvcnQvamF3d3l0di54bWwgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9NT0hBTUVEMTlPUy9YTUxUVi9tYWluL2phd3d5dHYueG1sIiB3Z2V0IC1PIC9ldGMvZXBnaW1wb3J0L2toYWxlZC54bWwgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9lbWlsbmFiaWwvZXBnLWtoYWxlZC9tYWluL2toYWxlZC54bWwiIHdnZXQgLU8gL2V0Yy9lcGdpbXBvcnQva2hhbGVkMS54bWwgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9lbWlsbmFiaWwvZXBnLWtoYWxlZC9tYWluL2toYWxlZDEueG1sIiBleGl0IDAgCg==" | base64 -d | sh
