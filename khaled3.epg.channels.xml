@@ -23,11 +23,6 @@
 <channel id="AljazeeraDocumentary.Arabic.bn">1:0:19:1f8:eac4:77e:dc00000:0:0:0:</channel>
 <channel id="AL.Hurra.HD.sa">1:0:1:1b9:10:6e:dca0000:0:0:0:</channel>
 <channel id="AL.Hurra.Iraq.HD.sa">1:0:1:1bb:10:6e:dca0000:0:0:0:</channel>
-<channel id="ART .Aflam .1.sa ARB">1:0:1:2c2:7:800:dca0000:0:0:0:</channel>
-<channel id="ART. Aflam .2.sa ARB">1:0:1:2c4:7:800:dca0000:0:0:0:</channel>
-<channel id="ART .Cinema.sa ARB">1:0:1:2c5:7:800:dca0000:0:0:0:</channel>
-<channel id="Hekayat .sa">1:0:1:2bf:7:800:dca0000:0:0:0:</channel>
-<channel id="Hekayat .2.sa">1:0:1:2c1:7:800:dca0000:0:0:0:</channel>
 <channel id="BBC.Arabic.sa ARB">1:0:1:c83:20:800:dca0000:0:0:0:</channel>
 <channel id="Beity.tv.sa TV">1:0:1:32:1:ffff:DCA2a3f:0:0:0:</channel> 
 	<channel id="Bahrain.TV.sa">1:0:19:1B76:2BC:5000:DC00000:0:0:0:</channel>
@@ -77,6 +72,7 @@
 <channel id="VH1.sa">1:0:1:de:2:800:DCA0000:0:0:0:</channel>
  <channel id="Rusia.Al.yawm.sa">1:0:1:636:ffdc:77e:DC00000:0:0:0:</channel>
 </channels>
+
 
 
 
