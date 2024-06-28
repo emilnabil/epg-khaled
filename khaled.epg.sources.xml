@@ -1,97 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sources>
 <sourcecat sourcecatname="khaled EPG">
-<source type="gen_xmltv" nocheck="1" channels="khaled4.epg.channels.xml">
-<description>khaled1</description>
-<url><![CDATA[https://iptv-org.github.io/epg/guides/ar/artonline.tv.xml]]></url>
+<source type="gen_xmltv" nocheck="1" channels="khaled.epg.channels.xml">
+<description>Arabkh</description>
+<url><![CDATA[http://epg.geniptv.com/epg/epg.xml.gz]]></url>
 </source>
-<source type="gen_xmltv" nocheck="1" channels="khaled7.epg.channels.xml">
-<description>khaled2</description>
-<url><![CDATA[https://iptv-org.github.io/epg/guides/ar/elcinema.com.xml]]></url>
+<source type="gen_xmltv" nocheck="1" channels="khaled1.epg.channels.xml">
+<description>Inedispirou-Arab</description>
+<url><![CDATA[http://www.inedispirou.com/media/epg/guide_mena-a.gz]]></url>
 </source>
-<source type="gen_xmltv" nocheck="1" channels="khaled7.epg.channels.xml">
-<description>khaled3</description>
-<url><![CDATA[https://iptv-org.github.io/epg/guides/en/osn.com.epg.xml]]></url>
-</source>
-<source type="gen_xmltv" nocheck="1" channels="khaled4.epg.channels.xml">
-<description>khaled4</description>
-<url><![CDATA[https://raw.githubusercontent.com/MOHAMED19OS/XMLTV/main/jawwytv.xml]]></url>
+<source type="gen_xmltv" nocheck="1" channels="khaled3.epg.channels.xml">
+<description>epgshare01-Arab</description>
+<url><![CDATA[http://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_AE1.xml.gz]]></url>
 </source>
 <source type="gen_xmltv" nocheck="1" channels="khaled2.epg.channels.xml">
-<description>Khaled5</description>
-<url><![CDATA[https://iptv-org.github.io/epg/guides/en/elcinema.com.xml]]></url>
+<description>epgshare01-Bein-Sports-Movies</description>
+<url><![CDATA[http://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_BEIN1.xml.gz]]></url>
 </source>
 <source type="gen_xmltv" nocheck="1" channels="khaled.epg.channels.xml">
-<description>Khaled6</description>
-<url><![CDATA[https://iptv-org.github.io/epg/guides/en/bein.com.xml]]></url>
+<description>Khaled-Arab</description>
+<url><![CDATA[http://195.154.221.171/epg/guidearab.xml]]></url>
 </source>
-<source type="gen_xmltv" nocheck="1" channels="khaled6.epg.channels.xml">
-<description>Khaled7</description>
-<url><![CDATA[https://raw.githubusercontent.com/MOHAMED19OS/XMLTV/main/osn.xml]]></url>
+<source type="gen_xmltv" nocheck="1" channels="khaled.epg.channels.xml">
+<description>Inedispirou-Arab-English</description>
+<url><![CDATA[http://www.inedispirou.com/media/epg/guide_mena-e.gz]]></url>
 </source>
-<source type="gen_xmltv" nocheck="1" channels="khaled6.epg.channels.xml">
-<description>Khaled8</description>
-<url><![CDATA[https://epgshare01.online/epgshare01/epg_ripper_SA1.xml.gz]]></url>
+<source type="gen_xmltv" nocheck="1" channels="khaled.epg.channels.xml">
+<description>khaled-ar-osn</description>
+<url><![CDATA[/etc/epgimport/ar_osn.xmltv]]></url>
 </source>
-<source type="gen_xmltv" nocheck="1" channels="khaled7.epg.channels.xml">
-<description>Khaled9</description>
-<url><![CDATA[https://iptv-org.github.io/epg/guides/ar/tv.blue.ch.xml]]></url>
+<source type="gen_xmltv" nocheck="1" channels="khaled.epg.channels.xml">
+<description>khaled-ar-osn2</description>
+<url><![CDATA[/etc/epgimport/ar_osn2.xmltv]]></url>
 </source>
-<source type="gen_xmltv" nocheck="1" channels="khaled5.epg.channels.xml">
-<description>Khaled10</description>
-<url><![CDATA[https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml]]></url>
+<source type="gen_xmltv" nocheck="1" channels="khaled.epg.channels.xml">
+<description>khaled-ar-osn3</description>
+<url><![CDATA[/etc/epgimport/ar_osn3.xmltv]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="khaled.epg.channels.xml">
+<description>khaled-ar-osn4</description>
+<url><![CDATA[/etc/epgimport/ar_osn4.xmltv]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="khaled.epg.channels.xml">
+<description>khaled-ar-osn5</description>
+<url><![CDATA[/etc/epgimport/ar_osn5.xmltv]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="khaled4.epg.channels.xml">
+<description>khaled-ar-arab</description>
+<url><![CDATA[/etc/epgimport/ar_arab.xmltv]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="khaled4.epg.channels.xml">
+<description>khaled-ar-elcinema</description>
+<url><![CDATA[/etc/epgimport/ar_el_cinema.xmltv]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="khaled.epg.channels.xml">
+<description>khaled-ar-bein</description>
+<url><![CDATA[/etc/epgimport/ar_bein.xmltv]]></url>
 </source>
 </sourcecat>
 </sources>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

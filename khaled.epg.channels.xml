@@ -1,94 +1,243 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <channels>
-	<channel id="beIN 1 PREM">1:0:19:7D1:64:77E:DC00000:0:0:0</channel>
-	<channel id="AlJazeeraDocumentary.qa">1:0:19:1F8:EAC4:77E:DC00000:0:0:0</channel>
-	<channel id="beIN 2 PREM">1:0:19:7D2:64:77E:DC00000:0:0:0</channel>
-	<channel id="beIN 3 PREM">1:0:19:838:C8:77E:DC00000:0:0:0</channel>
-	<channel id="beIN 1HD">1:0:19:7D3:64:77E:DC00000:0:0:0</channel>
-	<channel id="beIN 2HD">1:0:19:836:C8:77E:DC00000:0:0:0</channel>
-	<channel id="beIN 3HD">1:0:19:7D4:64:77E:DC00000:0:0:0</channel>
-	<channel id="beIN 4HD">1:0:19:835:C8:77E:DC00000:0:0:0</channel>
-	<channel id="beIN 5HD">1:0:19:839:C8:77E:DC00000:0:0:0</channel>
-	<channel id="beIN 6HD">1:0:19:837:C8:77E:DC00000:0:0:0</channel>
-	<channel id="beIN 7HD">1:0:19:899:12C:77E:DC00000:0:0:0</channel>
-	<channel id="beIN Sports News">1:0:19:89A:12C:77E:DC00000:0:0:0</channel>
-	<channel id="beIN Sports">1:0:19:83A:C8:77E:DC00000:0:0:0</channel>
-	<channel id="XTRA 1">1:0:19:89D:12C:77E:DC00000:0:0:0</channel>
-	<channel id="XTRA 2">1:0:19:89E:12C:77E:DC00000:0:0:0</channel>
-	<channel id="beIN SPORTS MAX 1">1:0:19:89B:12C:77E:DC00000:0:0:0</channel>
-	<channel id="beIN SPORTS MAX 2">1:0:19:7D6:64:77E:DC00000:0:0:0</channel>
-	<channel id="beIN SPORTS MAX 3">1:0:19:7D5:64:77E:DC00000:0:0:0</channel>
-	<channel id="beIN SPORTS MAX 4">1:0:19:89C:12C:77E:DC00000:0:0:0</channel>
-	<channel id="beIN SPORTS MAX 5">1:0:19:89F:12C:77E:DC00000:0:0:0</channel>
-	<channel id="beIN SPORTS MAX 6">1:0:19:8A0:12C:77E:DC00000:0:0:0</channel>
-	<channel id="beIN_SPORTS1_PREMIUM">1:0:19:7D1:64:77E:DC00000:0:0:0</channel>
-	<channel id="beIN_SPORTS2_PREMIUM">1:0:19:7D2:64:77E:DC00000:0:0:0</channel>
-	<channel id="beIN_SPORTS3_PREMIUM">1:0:19:838:C8:77E:DC00000:0:0:0</channel>
-	<channel id="beIN_SPORTS1">1:0:19:7D3:64:77E:DC00000:0:0:0</channel>
-	<channel id="beIN_SPORTS2">1:0:19:836:C8:77E:DC00000:0:0:0</channel>
-	<channel id="beIN_SPORTS3">1:0:19:7D4:64:77E:DC00000:0:0:0</channel>
-	<channel id="beIN_SPORTS4">1:0:19:835:C8:77E:DC00000:0:0:0</channel>
-	<channel id="beIN_SPORTS5">1:0:19:839:C8:77E:DC00000:0:0:0</channel>
-	<channel id="SPORTS_6-1">1:0:19:837:C8:77E:DC00000:0:0:0</channel>
-	<channel id="beIN_SPORTS7">1:0:19:899:12C:77E:DC00000:0:0:0</channel>
-	<channel id="NEWS">1:0:19:89A:12C:77E:DC00000:0:0:0</channel>
-	<channel id="bein_SPORTS_FTA">1:0:19:83A:C8:77E:DC00000:0:0:0</channel>
-	<channel id="beIN_SPORTS_MAX1">1:0:19:89B:12C:77E:DC00000:0:0:0</channel>
-	<channel id="beIN_SPORTS_MAX2">1:0:19:7D6:64:77E:DC00000:0:0:0</channel>
-	<channel id="beIN_SPORTS_MAX3">1:0:19:7D5:64:77E:DC00000:0:0:0</channel>
-	<channel id="beIN_SPORTS_MAX4">1:0:19:89C:12C:77E:DC00000:0:0:0</channel>
-	<channel id="NEW_beIN-SPORTS-MAX-05">1:0:19:89F:12C:77E:DC00000:0:0:0</channel>
-	<channel id="NEW_beIN-SPORTS-MAX-06">1:0:19:8A0:12C:77E:DC00000:0:0:0</channel>
-	<channel id="BeInSportsPremium1.qa">1:0:19:7D1:64:77E:DC00000:0:0:0</channel>
-	<channel id="BeInSportsPremium2.qa">1:0:19:7D2:64:77E:DC00000:0:0:0</channel>
-	<channel id="BeInSportsPremium3.qa">1:0:19:838:C8:77E:DC00000:0:0:0</channel>
-	<channel id="BeInSports1.qa">1:0:19:7D3:64:77E:DC00000:0:0:0</channel>
-	<channel id="BeInSports2.qa">1:0:19:836:C8:77E:DC00000:0:0:0</channel>
-	<channel id="BeInSports3.qa">1:0:19:7D4:64:77E:DC00000:0:0:0</channel>
-	<channel id="BeInSports4.qa">1:0:19:835:C8:77E:DC00000:0:0:0</channel>
-	<channel id="BeInSports5.qa">1:0:19:839:C8:77E:DC00000:0:0:0</channel>
-	<channel id="BeInSports6.qa">1:0:19:837:C8:77E:DC00000:0:0:0</channel>
-	<channel id="BeInSports7.qa">1:0:19:899:12C:77E:DC00000:0:0:0</channel>
-	<channel id="BeInSportsNews.qa">1:0:19:89A:12C:77E:DC00000:0:0:0</channel>
-	<channel id="BeInSports.qa">1:0:19:83A:C8:77E:DC00000:0:0:0</channel>
-	<channel id="BeInSportsXtra1.qa">1:0:19:89D:12C:77E:DC00000:0:0:0</channel>
-	<channel id="BeInSportsXtra2.qa">1:0:19:89E:12C:77E:DC00000:0:0:0</channel>
-	<channel id="AlJazeeraDocumentary.qa">1:0:19:1f8:eac4:77E:DC00000:0:0:0:</channel>
+<channel id="ART Aflam 1 ARB">1:0:1:2c2:7:800:dca0000:0:0:0:</channel> <!-- AFLAM 1-->
+<channel id="ART Aflam 2 ARB">1:0:1:2c4:7:800:dca0000:0:0:0:</channel> <!-- AFLAM 2-->
+<channel id="ART Cinema ARB">1:0:1:2c5:7:800:dca0000:0:0:0:</channel> <!-- Cinema-->
+<channel id="ART Hkayat 1 ARB">1:0:1:2bf:7:800:dca0000:0:0:0:</channel> <!-- Hekayat-->
+<channel id="ART Hikayat 2 ARB">1:0:1:2c1:7:800:dca0000:0:0:0:</channel> <!-- Hekayat 2-->
+<channel id="ART Aflam 1">1:0:1:2c2:7:800:dca0000:0:0:0:</channel> <!--AFLAM_1-->
+<channel id="ART Aflam 2">1:0:1:2c4:7:800:dca0000:0:0:0:</channel> <!-- AFLAM 2-->
+<channel id="ART Cinema">1:0:1:2c5:7:800:dca0000:0:0:0:</channel> <!-- Cinema-->
+<channel id="Hekayat">1:0:1:2bf:7:800:dca0000:0:0:0:</channel> <!-- Hekayat--> <channel id="Hekayat 2">1:0:1:2c1:7:800:dca0000:0:0:0:</channel> <!-- Hekayat 2-->
+<channel id="Al Ahly Club ARB">1:0:1:bc3:1e:800:dca0000:0:0:0:</channel> <!-- Al Ahly tv-->
+<channel id="Al Ahly Club ARB">1:0:19:6a:1:800:dca0000:0:0:0:</channel> <!-- Al Ahly tv-->
+<channel id="Al Jazeera Arabic ARB">1:0:19:1f5:eac4:77e:dc00000:0:0:0:</channel> <!-- Al Jazeera hd-->
+<channel id="Al Jazeera Mubasher ARB">1:0:19:1f6:eac4:77e:dc00000:0:0:0:</channel> <!-- Al Jazeera Mubasher hd-->
+<channel id="Nile Cinema ARB">1:0:1:266:6:800:dca0000:0:0:0:</channel> <!-- Nile Cinema-->
+<channel id="Nile Comedy ARB">1:0:1:25c:6:800:dca0000:0:0:0:</channel> <!-- Nile Comedy-->
+<channel id="Nile Family ARB">1:0:1:1f9:5:800:dca0000:0:0:0:</channel> <!-- Nile Family-->
+<channel id="Nile News ARB">1:0:1:25b:6:800:dca0000:0:0:0:</channel> <!-- Nile News-->
+<channel id="Nile Sport ARB">1:0:1:25f:6:800:dca0000:0:0:0:</channel> <!-- Nile Sport-->
+<channel id="BBC Arabic ARB">1:0:1:c83:20:800:dca0000:0:0:0:</channel> <!-- BBC Arabic-->
+<channel id="Rotana Clip ARB">1:0:1:15e2:38:800:dca0000:0:0:0:</channel> <!-- Rotana Clip-->
+<channel id="Rotana Khalijiah ARB">1:0:1:15e4:38:800:dca0000:0:0:0:</channel> <!-- Rotana Khalijia-->
+<channel id="Rotana Music ARB">1:0:1:15e1:38:800:dca0000:0:0:0:</channel> <!-- Rotana Music-->
+<channel id="Samira TV ARB">1:0:1:d0a:21:800:dca0000:0:0:0:</channel> <!-- Samira TV-->
+<channel id="Saudi 1 ARB">1:0:1:a29:1a:2be:dca0000:0:0:0:</channel> <!-- Saudi tv hd-->
+<channel id="Saudi Sport 1 ARB">1:0:1:a2b:1a:2be:dca0000:0:0:0:</channel> <!-- ksa sports 1 hd-->
+<channel id="CBC ARB">1:0:1:70b:12:800:dca0000:0:0:0:</channel> <!-- CBC-->
+<channel id="CBC Drama ARB">1:0:1:70d:12:800:dca0000:0:0:0</channel> <!-- CBC Drama-->
+<channel id="CBC Sofra
+ ARB">1:0:1:70c:12:800:dca0000:0:0:0:</channel> <!-- CBC Sofra-->
+<channel id="DMC Drama ARB">1:0:1:1af9:45:800:dca0000:0:0:0:</channel> <!-- dmc drama-->
+<channel id="DMC HD ARB">1:0:19:1af5:45:800:dca0000:0:0:0:</channel> <!-- DMC HD-->
+<channel id="Al Safwa ARB">1:0:1:a8e:1:2a:dc00000:0:0:0:</channel> <!-- al safwa -->
+<channel id="2M Maroc ARB">1:0:1:51c:d:800:dca0000:0:0:0:</channel> <!-- 2M Maroc-->
+<channel id="Al Masriya ARB">1:0:1:89c:16:800:dca0000:0:0:0:</channel> <!-- al masryia-->
+<channel id="Al Nahar One ARB">1:0:1:13f1:33:800:dca0000:0:0:0:</channel> <!-- Al Nahar one-->
+<channel id="Al Nahar One ARB">1:0:1:709:12:800:dca0000:0:0:0:</channel> <!-- Al Nahar one-->
+<channel id="Abu Dhabi TV ARB">1:0:1:1:32:64:dca0000:0:0:0:</channel> <!-- Abu Dhabi tv hd-->
+<channel id="Al Arabiya Al Hadath ARB">1:0:1:2:3b:800:dc00000:0:0:0:</channel> <!-- al hadath-->
+<channel id="Al Arabiya ARB">1:0:1:3:3b:800:dc00000:0:0:0:</channel> <!-- Al Arabiya-->
+<channel id="Al Emarat TV ARB">1:0:1:2:32:64:dca0000:0:0:0:</channel> <!-- AL Emarat tv hd-->
+<channel id="Al Hayat Musalsalat ARB">1:0:1:ee4:26:800:dca0000:0:0:0:</channel> <!-- Alhayat Muslsalet-->
+<channel id="Al Hayat Musalsalat ARB">1:0:1:70f:12:800:dca0000:0:0:0:</channel> <!-- Alhayat Muslsalet-->
+<channel id="Al Kahera Wal Nass 1 ARB">1:0:1:1ea:5:800:dca0000:0:0:0:</channel> <!-- Al kahera Wal nas-->
+<channel id="Al Kahera Wal Nass 2 ARB">1:0:1:1905:40:800:dca0000:0:0:0:</channel> <!-- Al kahera Wal nas +2-->
+<channel id="Al Hurra ARB">1:0:1:1b9:10:6e:dca0000:0:0:0:</channel> <!-- Alhurra tv hd-->
+<channel id="Al Hurra Iraq ARB">1:0:1:1bb:10:6e:dca0000:0:0:0:</channel> <!-- Alhurra Iraq tv hd-->
+<channel id="B4U Aflam ARB">1:0:1:b00:1c:800:dca0000:0:0:0:</channel> <!-- B4U Aflam-->
+<channel id="B4U Plus ARB">1:0:1:85d:15:800:dca0000:0:0:0:</channel> <!-- B4U plus-->
+<channel id="Al Bahrain TV ARB">1:0:19:1b76:2bc:5000:dc00000:0:0:0:</channel> <!-- Bahrain TV hd-->
+<channel id="Dubai Al Oula ARB">1:0:19:19cb:42:800:dca0000:0:0:0:</channel> <!-- Dubai tv hd-->
+<channel id="Dubai One ARB">1:0:1:126f:2f:800:dca0000:0:0:0:</channel> <!-- Dubai One hd-->
+<channel id="France 24 French ARB">1:0:1:c86:20:800:dca000:0:0:0:</channel> <!-- France 24-->
+<channel id="Iqra ARB">1:0:1:2bc:7:800:dca0000:0:0:0:</channel> <!-- Iqraa-->
+<channel id="AljazeeraDocumentary.Arabic.bn">1:0:19:1f8:eac4:77e:dc00000:0:0:0:</channel> <!-- al jazeera Documentary hd-->
+<channel id="AljazeeraDocumentary Arabic">1:0:19:1f8:eac4:77e:dc00000:0:0:0:</channel> <!-- al jazeera Documentary hd-->
+<channel id="LBC ARB">1:0:1:15ea:38:800:dca0000:0:0:0:</channel> <!-- LBC SAT-->
+<channel id="Al Mehwar ARB">1:0:1:457:b:800:dca0000:0:0:0:</channel> <!-- Mehwer-->
+<channel id="Nile TV ARB">1:0:1:89d:16:800:dca0000:0:0:0:</channel> <!-- Nile TV-->
+<channel id="Noor Dubai ARB">1:0:1:126d:2f:800:dca0000:0:0:0:</channel> <!-- Noor Dubai-->
+<channel id="Oman TV ARB">1:0:1:138a:32:800:dca0000:0:0:0:</channel> <!-- Oman TV General HD-->
+<channel id="Oman Sport ARB">1:0:1:13bc:32:800:dca0000:0:0:0:</channel> <!-- Oman TV Sport HD-->
+<channel id="ON E ARB">1:0:19:1646:39:800:dca0000:0:0:0:</channel> <!-- ON E hd-->
+<channel id="Palestine TV ARB">1:0:19:488:3b6:5000:dc00000:0:0:0:</channel> <!-- Palestine hd-->
+<channel id="Panorama Drama ARB">1:0:1:bbf:1e:800:dca0000:0:0:0:</channel> <!-- Panorama Drama-->
+<channel id="Rotana Cinema ARB">1:0:1:15e9:38:800:dca0000:0:0:0:</channel> <!-- Rotana Cinema ksa-->
+<channel id="Sada Al Balad ARB">1:0:1:45a:b:800:dca0000:0:0:0:</channel> <!-- Sada El Balad-->
+<channel id="Sada El Balad Plus2 ARB">1:0:1:17db:3d:800:dca0000:0:0:0:</channel> <!-- Sada El Balad+-->
+<channel id="Sada El Balad Plus2 ARB">1:0:1:45b:b:800:dca0000:0:0:0:</channel> <!-- Sada El Balad+-->
+<channel id="Sama Dubai ARB">1:0:19:19d2:42:800:dca0000:0:0:0:</channel> <!-- Sama Dubai hd-->
+<channel id="Saudi Quran ARB">1:0:1:15e1:1a:2be:dca0000:0:0:0:</channel> <!-- Saudi ch for quran hd-->
+<channel id="Sharjah Sports HD ARB">1:0:19:6:208:2be:dc00000:0:0:0:</channel> <!-- Sharjah Sport hd-->
+<channel id="Sky News Arabic ARB">1:0:19:7df:14:800:dca0000:0:0:0:</channel> <!-- Sky News Arabia hd-->
+<channel id="Space Toon Arabic ARB">1:0:1:710:12:800:dca0000:0:0:0:</channel> <!-- SpaceToon arabic-->
+<channel id="Alsumaria ARB">1:0:1:ce9:21:800:dca0000:0:0:0:</channel> <!-- al Sumaria tv-->
+<channel id="TEN ARB">1:0:1:190e:40:800:dca0000:0:0:0:</channel> <!-- Ten tv-->
+<channel id="TEN ARB">1:0:1:259:6:800:dca0000:0:0:0:</channel> <!-- Ten tv-->
+<channel id="Tunisia 1 ARB">1:0:1:e11:24:800:dca0000:0:0:0:</channel> <!-- Tunisia Nat 1-->
+<channel id="Zee Aflam ARB">1:0:1:afb:1c:800:dca0000:0:0:0:</channel> <!-- Zee Aflam-->
+<channel id="Zee Alwan ARB">1:0:1:afc:1c:800:dca0000:0:0:0:</channel> <!-- Zee Alwan-->
+<channel id="Cairo Cinema ARB">1:0:1:fab:28:800:dca0000:0:0:0:</channel> <!-- cairo cinema-->
+<channel id="Cairo Drama ARB">1:0:1:faa:28:800:dca0000:0:0:0:</channel> <!-- cairo drama-->
+<channel id="Rusiya Al Yaum ARB">1:0:19:133:c9:800:dca0000:0:0:0:</channel> <!-- RT Arab-->
+<channel id="Rusiya Al Yaum ARB">1:0:1:636:ffdc:77e:dc00000:0:0:0:</channel> <!-- RT Arab-->
+<channel id="Al Kass One ARB">1:0:1:9c5:19:800:dca0000:0:0:0:</channel> <!-- Alkass one hd-->
+<channel id="Al Kass Two ARB">1:0:1:9c6:19:800:dca0000:0:0:0:</channel> <!-- Alkass two hd-->
+<channel id="Saudi Sport 2 HD ARB">1:0:1:15e5:1a:2be:dca0000:0:0:0:</channel> <!-- Ksa Sports 2 HD-->
+<channel id="Saudi Sport 1 HD ARB">1:0:1:a2b:1a:2be:dca0000:0:0:0:</channel> <!-- Ksa Sports 1 HD-->
+<channel id="Abu Dhabi Sports ARB">1:0:1:5:32:64:dca0000:0:0:0:</channel> <!-- AD Sport 1 HD-->
+<channel id="Abu Dhabi Sports 2 ARB">1:0:1:6:32:64:dca0000:0:0:0:</channel> <!-- AD Sport 2 HD -->
+<channel id="Abu Dhabi Sports 3 ARB">1:0:1:12d:c9:800:dca0000:0:0:0:</channel> <!-- AD Sport 3 HD-->
+<channel id="Abu Dhabi Sports 4 ARB">1:0:1:12e:c9:800:dca0000:0:0:0:</channel> <!-- AD Sport 4 HD-->
+<channel id="Al Majd Quran ARB">1:0:1:8aa:16:800:dca0000:0:0:0:</channel> <!-- AL-Majd 3-->
+<channel id="Ajman TV ARB">1:0:0:191:10:6e:dca0000:0:0:0:</channel> <!-- ajman hd-->
+<channel id="Al Dafrah TV ARB">1:0:19:19d3:42:800:dca0000:0:0:0:</channel> <!-- al dafra hd-->
+<channel id="Al Ekhbariya ARB">1:0:1:a2c:1a:800:dca0000:0:0:0:</channel> <!-- al-ekhbaria-->
+<channel id="Al Ghad Al Arabi HD ARB">1:0:19:1906:40:800:dca0000:0:0:0:</channel> <!-- al ghad hd-->
+<channel id="Al Ghad Al Arabi HD ARB">1:0:19:651:10:800:dca0000:0:0:0:</channel> <!-- al ghad hd-->
+<channel id="Al Ghad Al Mushreq ARB">1:0:1:d04:21:800:dca0000:0:0:0:</channel> <!-- al ghad al mushreq-->
+<channel id="Al Iraqiya TV ARB">1:0:19:1c29:48:800:dc00000:0:0:0:</channel> <!-- iraqia ent hd-->
+<channel id="Al Mustakillah ARB">1:0:1:7f1:11:6e:dca0000:0:0:0:</channel> <!-- al-mustakila-->
+<channel id="AL Rai ARB">1:0:19:1a0e:2bc:5000:dc00000:0:0:0:</channel> <!-- alrai tv-->
+<channel id="Asianet Middle East ARB">1:0:1:2b:14:6e:dca0000:0:0:0:</channel> <!-- asia tv-->
+<channel id="Azhari ARB">1:0:1:1908:40:800:dca0000:0:0:0:</channel> <!-- azhari-->
+<channel id="Azhari ARB">1:0:1:203:5:800:dca0000:0:0:0:</channel> <!-- azhari-->
+<channel id="Canal Algerie ARB">1:0:1:2:2a94:1:dca2da0:0:0:0:</channel> <!-- canal algerie-->
+<channel id="KTV 2 ARB">1:0:19:44e:7594:77e:dc00000:0:0:0:</channel> <!-- kuwait tv 2-->
+<channel id="Roya TV ARB">1:0:19:33f:8:800:dca0000:0:0:0:</channel> <!-- Ro'ya hd-->
+<channel id="TRT Turkiye ARB">1:0:1:31f:10:6e:dca0000:0:0:0:</channel> <!-- TRT arabi hd-->
+<channel id="Al Aoula Tv ARB">1:0:1:c8a:20:800:dca0000:0:0:0:</channel> <!-- Al Aoula Inter-->
+<channel id="France 24 Arabic ARB">1:0:1:c86:20:800:dca0000:0:0:0:</channel> <!-- France 24-->
+<channel id="CNN International ARB">1:0:1:85a:15:800:dca0000:0:0:0:</channel> <!-- CNN-->
+<channel id="DW Arabia ARB">1:0:1:7d2:14:800:dca0000:0:0:0:</channel> <!-- dw arabia-->
+<channel id="DW Arabia ARB">1:0:19:a98:1:2a:dc00000:0:0:0:</channel> <!-- dw arabia-->
+<channel id="KTV 1 ARB">1:0:19:44d:7594:77e:dc00000:0:0:0:</channel> <!-- Kuwait TV 1-->
+<channel id="Oman Sport ARB">1:0:1:138c:32:800:dca0000:0:0:0:</channel> <!-- Oman TV Sport HD-->
+<channel id="TV5MONDE Maghreb Orient HD ARB">1:0:1:641:10:800:dca0000:0:0:0:</channel> <!-- TV5-->
+<channel id="Tele Liban ARB">1:0:1:519:d:800:dca0000:0:0:0:</channel> <!-- Lebanon TV-->
+<channel id="Sharjah TV ARB">1:0:19:1:208:2be:dc00000:0:0:0:</channel> <!-- sharjah hd-->
+<channel id="Al Araby ARB">1:0:19:1310:1f4:5000:dca0000:0:0:0:</channel> <!-- al araby tv hd-->
+<channel id="Fujairah TV ARB">1:0:19:19d4:42:800:dca0000:0:0:0:</channel> <!-- fujairah tv hd-->
+<channel id="Qatar ARB">1:0:1:4:3:3:dca0000:0:0:0:</channel> <!-- QATAR tv hd-->
+<channel id="Al Nahar Drama Plus2 ARB">1:0:1:70a:12:800:dca0000:0:0:0:</channel> <!-- AlNahar Drama-->
+<channel id="Abu Dhabi DramaPlus HD ARB">1:0:1:4:32:64:dca0000:0:0:0:</channel> <!-- Abu Dhabi Drama-->
+<channel id="Al Kahera Wal Nass 2 ARB">1:0:1:515:d:800:dca0000:0:0:0:</channel> <!-- Al kahera WaL nas2-->
+<channel id="Nile Life ARB">1:0:1:25d:6:800:dca0000:0:0:0:</channel> <!-- nile life-->
+<channel id="MBC1.ae">1:0:1:4:3b:800:dc00000:0:0:0:</channel> <!-- MBC 1-->
+<channel id="MBC2.ae">1:0:1:9:3b:800:dc00000:0:0:0:</channel> <!-- MBC 2-->
+<channel id="MBC4.ae">1:0:1:5:3b:800:dc00000:0:0:0:</channel> <!-- MBC 4-->
+<channel id="MBC.Action.ae">1:0:1:a:3b:800:dc00000:0:0:0:</channel> <!-- MBC Action-->
+<channel id="MBC.Bollywood.ae">1:0:1:8:3b:800:dc00000:0:0:0:</channel> <!-- MBC Bollywood-->
+<channel id="MBC.Drama.ae">1:0:1:6:3b:800:dc00000:0:0:0:</channel> <!-- MBC Drama-->
+<channel id="MBC.Iraq.ae">1:0:1:85e:15:800:dca0000:0:0:0:</channel> <!-- MBC Iraq-->
+<channel id="MBC.Egypt.2.ae">1:0:1:452:b:800:dca0000:0:0:0:</channel> <!-- MBC Masr 2-->
+<channel id="MBC.Egypt.ae">1:0:1:14:3b:800:dc00000:0:0:0:</channel> <!-- MBC Masr-->
+<channel id="beIN Sports Global ARB">1:0:19:83a:c8:77e:dc00000:0:0:0:</channel> <!-- beIN SPORTS HD-->
+<channel id="beIN Sports News ARB">1:0:1:89a:12c:77e:dc00000:0:0:0:</channel> <!-- beIN SPORTS News HD-->
+<channel id="beIN Sports 1 ARB">1:0:19:7d1:64:77e:dc00000:0:0:0:</channel> <!-- BEIN SPORTs hd 1-->
+<channel id="beIN Sports 2 ARB">1:0:18:7d2:64:77e:dc00000:0:0:0:</channel> <!-- BEIN sports hd 2-->
+<channel id="beIN Sports 3 ARB">1:0:19:7d3:64:77e:dc00000:0:0:0:</channel> <!-- BEIN sports hd 3-->
+<channel id="beIN Sports 4 ARB">1:0:19:7d4:64:77e:dc00000:0:0:0:</channel> <!-- BEIN sports hd 4-->
+<channel id="beIN Sports 5 ARB">1:0:19:835:c8:77e:dc00000:0:0:0:</channel> <!-- BEIN sports hd 5-->
+<channel id="beIN Sports 6 ARB">1:0:19:836:c8:77e:dc00000:0:0:0:</channel> <!-- BEIN sports hd 6-->
+<channel id="beIN Sports 7 ARB">1:0:19:837:c8:77e:dc00000:0:0:0:</channel> <!-- BEIN sports hd 7-->
+<channel id="beIN Sports 8 ARB">1:0:19:838:c8:77e:dc00000:0:0:0:</channel> <!-- BEIN sports hd 8-->
+<channel id="beIN Sports 9 ARB">1:0:19:839:c8:77e:dc00000:0:0:0:</channel> <!-- BEIN sports hd 9-->
+<channel id="beIN Sports 10 ARB">1:0:1:899:12c:77e:dc00000:0:0:0:</channel> <!-- BEIN sports hd 10-->
+<channel id="OSN Yahala Cinema HD ARB">1:0:19:132:3:800:dca0000:0:0:0:</channel> <!-- osn yh cinema-->
+<channel id="OSN Yahala Cinema HD ARB">1:0:19:132:3:800:dca0000:0:0:0:</channel> <!-- osn yh cinema-->
+<channel id="OSN Ya Hala Al Oula">1:0:19:119d:2d:800:dca0000:0:0:0:</channel> <!-- Yahala_Oula_HD-->
+<channel id="OSN Ya Hala">1:0:19:135:3:800:dca0000:0:0:0:</channel> <!-- Yahala_HD-->
+<channel id="OSN Ya Hala">1:0:19:135:3:800:dca0000:0:0:0:</channel> <!-- Yahala_HD-->
+<channel id="OSN Ya Hala Al Oula">1:0:19:119d:2d:800:dca0000:0:0:0:</channel> <!-- Yahala_Oula_HD-->
+<channel id="Al Yawm HD ARB">1:0:1:a8d:1:2a:dc00000:0:0:0:</channel> <!-- Al yawm-->
+<channel id="Al Safwa">1:0:1:a8e:1:2a:dc00000:0:0:0:</channel> <!-- alsafwa-->
+<channel id="Cinema 1 ARB">1:0:1:a8f:1:2a:dc00000:0:0:0:</channel> <!-- Cinema 1-->
+<channel id="Cinema 2 ARB">1:0:1:a90:1:2a:dc00000:0:0:0:</channel> <!-- Cinema 2-->
+<channel id="Arabic Series Channel ARB">1:0:19:a92:1:2a:dc00000:0:0:0:</channel> <!-- series channel hd-->
+<channel id="Arabic Series Plus2 ARB">1:0:19:a91:1:2a:dc00000:0:0:0:</channel> <!-- series+2 hd-->
+<channel id="Fann ARB">1:0:1:a93:1:2a:dc00000:0:0:0:</channel> <!-- Fann-->
+<channel id="Music Now">1:0:1:a94:1:2a:dc00000:0:0:0:</channel> <!-- Music_NOW_HD-->
+<channel id="OSN Movies HD ARB">1:0:19:1197:2d:800:dca0000:0:0:0:</channel> <!-- osn movies-->
+<channel id="OSN Movies HD ARB">1:0:19:1197:2d:800:dca0000:0:0:0:</channel> <!-- osn movies-->
+<channel id="OSN Movies">1:0:19:1197:2d:800:dca0000:0:0:0:</channel> <!-- osn movies-->
+<channel id="OSN Action">1:0:19:12e:3:800:dca0000:0:0:0:</channel> <!-- Movies_Action_HD-->
+<channel id="OSN Action">1:0:19:12e:3:800:dca0000:0:0:0:</channel> <!-- Movies_Action_HD-->
+<channel id="OSN Movies Disney">1:0:19:1622:236:800:dca0000:0:0:0:</channel> <!-- Movies_Disney_HD-->
+<channel id="OSN Enigma">1:0:19:1198:2d:800:dca0000:0:0:0:</channel> <!-- Movies_Enigma_HD-->
+<channel id="OSN Enigma">1:0:19:1198:2d:800:dca0000:0:0:0:</channel> <!-- Movies_Enigma_HD-->
+<channel id="OSN Movies First">1:0:19:12d:3:800:dca0000:0:0:0:</channel> <!-- Movies_First_HD-->
+<channel id="OSN Movies First">1:0:19:12d:3:800:dca0000:0:0:0:</channel> <!-- Movies_First_HD-->
+<channel id="OSN Movies First+2">1:0:19:1625:236:800:dca0000:0:0:0:</channel> <!-- Movies_First_HD_2h-->
+<channel id="OSN Movies First+2">1:0:19:1625:236:800:dca0000:0:0:0:</channel> <!-- Movies_First_HD_2h-->
+<channel id="OSN Kids">1:0:19:119a:2d:800:dca0000:0:0:0:</channel> <!-- Movies_Kids_SD-->
+<channel id="Disney Channel ARB">1:0:19:12c4:30:800:dca0000:0:0:0:</channel> <!-- disney hd-->
+<channel id="Disney Channel ARB">1:0:19:12c4:30:800:dca0000:0:0:0:</channel> <!-- disney hd-->
+<channel id="Disney XD">1:0:19:12c6:30:800:dca0000:0:0:0:</channel> <!-- Disney XD-->
+<channel id="Star World ARB">1:0:19:6a9:11:800:dca0000:0:0:0:</channel> <!-- Star World HD-->
+<channel id="Star World ARB">1:0:19:6a9:11:800:dca0000:0:0:0:</channel> <!-- Star World HD-->
+<channel id="Star Movies HD ARB">1:0:19:3ef:a:800:dca0000:0:0:0:</channel> <!-- Star Movies HD-->
+<channel id="Star Movies ARB">1:0:19:3ef:a:800:dca0000:0:0:0:</channel> <!-- Star Movies HD-->
+<channel id="National Geographic Wild ARB">1:0:19:3ec:a:800:dca0000:0:0:0:</channel> <!-- Nat Geo Wild HD-->
+<channel id="National Geographic Wild ARB">1:0:19:3ec:a:800:dca0000:0:0:0:</channel> <!-- Nat Geo Wild HD-->
+<channel id="National Geographic ARB">1:0:19:3ee:a:800:dca0000:0:0:0:</channel> <!-- Nat Geo HD-->
+<channel id="Nat Geo People HD">1:0:19:3ed:a:800:dca0000:0:0:0:</channel> <!-- NAT_GEO_People_hd-->
+<channel id="Nat Geo HD">1:0:19:3ee:a:800:dca0000:0:0:0:</channel> <!-- National_Geographic_HD-->
+<channel id="Discovery HD ARB">1:0:19:1621:236:800:dca0000:0:0:0:</channel> <!-- Discovery HD-->
+<channel id="Discovery HD">1:0:19:1621:236:800:dca0000:0:0:0:</channel> <!-- Discovery_HD-->
+<channel id="Discovery HD">1:0:19:1621:236:800:dca0000:0:0:0:</channel> <!-- Discovery_HD-->
+<channel id="Discovery Science HD">1:0:19:12c3:30:800:dca0000:0:0:0:</channel> <!-- Discovery_Science_HD-->
+<channel id="Discovery Science HD">1:0:19:12c3:30:800:dca0000:0:0:0:</channel> <!-- Discovery_Science_HD-->
+<channel id="Discovery ID">1:0:19:1624:236:800:dca0000:0:0:0:</channel> <!-- Discovery_IDX_HD-->
+<channel id="Travel ARB">1:0:1:</channel> <!-- Travel-->
+<channel id="E! Entertainment HD">1:0:19:131:3:800:dca0000:0:0:0:</channel> <!-- E!_HD-->
+<channel id="H2 HD">1:0:19:1623:236:800:dca0000:0:0:0:</channel> <!-- History_2_HD-->
+<channel id="History HD">1:0:19:12c2:30:800:dca0000:0:0:0:</channel> <!-- History_HD-->
+<channel id="H2 HD">1:0:19:1623:236:800:dca0000:0:0:0:</channel> <!-- History_2_HD-->
+<channel id="History HD">1:0:19:12c2:30:800:dca0000:0:0:0:</channel> <!-- History_HD-->
+<channel id="Comedy Central">1:0:19:3f1:a:800:dca0000:0:0:0:</channel> <!-- Comedy_Central_HD-->
+<channel id="OSN Comedy">1:0:19:3f1:a:800:dca0000:0:0:0:</channel> <!-- Comedy_Central_HD-->
+<channel id="OSN Comedy">1:0:19:119c:2d:800:dca0000:0:0:0:</channel> <!-- Comedy_HD-->
+<channel id="OSN Comedy">1:0:19:119c:2d:800:dca0000:0:0:0:</channel> <!-- Comedy_HD--
+<channel id="OSN Living">1:0:19:1196:2d:800:dca0000:0:0:0:</channel> <!-- Living_HD-->
+<channel id="OSN Living">1:0:19:1196:2d:800:dca0000:0:0:0:</channel> <!-- Living_HD-->
+<channel id="OSN Series First">1:0:19:130:3:800:dca0000:0:0:0:</channel> <!-- SERIES_FIRST_HD-->
+<channel id="TLC HD">1:0:19:134:3:800:dca0000:0:0:0:</channel> <!-- TLC -->
+<channel id="OSN Mezze">1:0:19:1195:2d:800:dca0000:0:0:0:</channel> <!-- Mezze -->
+<channel id="E! Entertainment HD">1:0:19:131:3:800:dca0000:0:0:0:</channel> <!-- E! HD -->
+<channel id="OSN Kid Zone">1:0:1:ce:2:800:dca0000:0:0:0:</channel> <!-- Kid Zone -->
+<channel id="OSN Kid Zone TV">1:0:1:ce:2:800:dca0000:0:0:0:</channel> <!-- Kid Zone -->
+<channel id="Nick Jr">1:0:19:3e9:a:800:dca0000:0:0:0:</channel> <!-- Nick Jr -->
+<channel id="Nick Jr">1:0:19:3e9:a:800:dca0000:0:0:0:</channel> <!-- Nick Jr -->
+<channel id="NickToons HD">1:0:19:12c1:30:800:dca0000:0:0:0:</channel> <!-- Nick Toons-->
+<channel id="NickToons HD">1:0:19:12c1:30:800:dca0000:0:0:0:</channel> <!-- Nick Toons-->
+<channel id="Nickelodeon HD">1:0:19:161f:236:800:dca0000:0:0:0:</channel> <!-- Nickelodeon-->
+<channel id="Nickelodeon HD">1:0:19:161f:236:800:dca0000:0:0:0:</channel> <!-- Nickelodeon-->
+<channel id="MTV Live HD">1:0:19:1620:236:800:dca0000:0:0:0:</channel> <!-- MTV Live HD -->
+<channel id="MTV Live HD">1:0:19:1620:236:800:dca0000:0:0:0:</channel> <!-- MTV Live HD -->
+<channel id="Baby TV Europe">1:0:19:7d9:14:800:dca0000:0:0:0:</channel> <!-- Baby TV-->
+<channel id="Baby_TV Arabic">1:0:19:7d9:14:800:dca0000:0:0:0:</channel> <!-- Baby TV-->
+<channel id="OSN News">1:0:19:12f:3:800:dca0000:0:0:0:</channel> <!-- OSN NEWS-->
+<channel id="Bloomberg">1:0:1:c9:2:800:dca0000:0:0:0:</channel> <!-- Bloomberg-->
+<channel id="Viva TV">1:0:1:d9:2:800:dca0000:0:0:0:</channel> <!-- Viva tv-->
+<channel id="Myx">1:0:1:d1:2:800:dca0000:0:0:0:</channel> <!-- Myx-->
+<channel id="NET 25">1:0:1:4:c3b4:77edc00000:0:0:0:</channel> <!-- Net25-->
+<channel id="Cine Mo">1:0:1:df:2:800:dca0000:0:0:0:</channel> <!-- Cine mo-->
+<channel id="Aksyon TV">1:0:1:dc:2:800:dca0000:0:0:0:</channel> <!-- Aksyon-->
+<channel id="Saudi1.mena">1:0:1:a29:1a:2be:dca0000:0:0:0:</channel> <!-- Ar Saudi TV HD-->
+<channel id="AlEkhbariya.mena">1:0:1:a2c:1a:2be:dca0000:0:0:0:</channel> <!-- Ar Saudia El Ekhbaria HD-->
+<channel id="SaudiSunnah.mena">1:0:1:15e2:1a:2be:dca0000:0:0:0:</channel> <!-- Saudi Sunnah HD-->
+<channel id="SaudiQuran.mena">1:0:1:15e1:1a:2be:dca0000:0:0:0:</channel> <!-- Saudia Quran-->
+<channel id="France24.ar">1:0:1:c86:20:800:dca0000:0:0:0:</channel> <!-- France 24-->
+<channel id="Bahrain.mena">1:0:1:1b8a:2bc:5000:dc00000:0:0:0:</channel> <!-- Ar Bahrain International TV FHD-->
+<channel id="Sudan.mena">1:0:1:67:1:800:dca0000:0:0:0:</channel> <!-- Ar Sudan TV-->
+<channel id="AlRayyanAlQadeem.mena">1:0:19:1ff:eac4:77e:dc00000:0:0:0:</channel> <!-- Ar Al Rayan Qadeem TV-->
+<channel id="Qatar.mena">1:0:1:4:3:3:dca0000:0:0:0:</channel> <!-- Ar Qatar HD-->
+<channel id="Jordan.mena">1:0:19:340:8:800:dca0000:0:0:0:</channel> <!-- Ar Jordan TV-->
+<channel id="Kuwait1.mena">1:0:19:44d:7594:77e:dc00000:0:0:0:</channel> <!-- Kuwait TV 1 HD-->
+<channel id="AlSharqiya.mena">1:0:19:b03:1c:800:dca0000:0:0:0:</channel> <!-- Alsharqiya -->
+<channel id="SyriaSatellite.mena">1:0:1:</channel> <!-- Syria TV-->
 </channels>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
