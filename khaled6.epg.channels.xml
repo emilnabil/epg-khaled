@@ -1,283 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <channels>
-	<channel id="OSN.TV.Movies.Premiere.sa">1:0:19:12D:3:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.Movies.First.sa">1:0:19:12D:3:800:DCA0000:0:0:0</channel>
-	<channel id="OSNMoviesFirstPlus2.ae">1:0:19:1625:236:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.Movies.First.+2.sa">1:0:19:1625:236:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.TV.Movies.Action.sa">1:0:19:12E:3:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.Action.sa">1:0:19:12E:3:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.TV.Movies.Hollywood.sa">1:0:19:1197:2D:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.Movies.sa">1:0:19:1197:2D:800:DCA0000:0:0:0</channel>
-	<channel id="OSNEnigma.ae">1:0:19:1198:2D:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.Enigma.sa">1:0:19:1198:2D:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.TV.Kids.sa">1:0:19:119A:2D:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.Kids.sa">1:0:19:119A:2D:800:DCA0000:0:0:0</channel>
-	<channel id="StarMoviesMiddleEast.hk">1:0:19:3EF:A:800:DCA0000:0:0:0</channel>
-	<channel id="Star.Movies.HD.sa">1:0:19:3EF:A:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.TV.Yahala.Bil.Arabi.sa">1:0:19:119D:2D:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.Ya.Hala.Al.Oula.sa">1:0:19:119D:2D:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.TV.Yahala.sa">1:0:19:135:3:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.Ya.Hala.sa">1:0:19:135:3:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.TV.Yahala.Aflam.sa">1:0:19:132:3:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.Yahala.Cinema.sa">1:0:19:132:3:800:DCA0000:0:0:0</channel>
-	<channel id="Alfa.Series.Channel.sa">1:0:19:A92:1:2A:DC00000:0:0:0</channel>
-	<channel id="Series.Channel.sa">1:0:19:A92:1:2A:DC00000:0:0:0</channel>
-	<channel id="Alfa.Series.+2.sa">1:0:19:A91:1:2A:DC00000:0:0:0</channel>
-	<channel id="Alfa.Al.Yawm.sa">1:0:1:A8D:1:2A:DC00000:0:0:0</channel>
-	<channel id="Al.Yawm.sa">1:0:1:A8D:1:2A:DC00000:0:0:0</channel>
-	<channel id="Al.Safwa.sa">1:0:1:A8E:1:2A:DC00000:0:0:0</channel>
-	<channel id="Al.Safwa.sa">1:0:1:A8E:1:2A:DC00000:0:0:0</channel>
-	<channel id="Alfa.Fann.sa">1:0:1:A93:1:2A:DC00000:0:0:0</channel>
-	<channel id="Fann.sa">1:0:1:A93:1:2A:DC00000:0:0:0</channel>
-	<channel id="Alfa.Cinema.1.sa">1:0:1:A8F:1:2A:DC00000:0:0:0</channel>
-	<channel id="Cinema.1.sa">1:0:1:A8F:1:2A:DC00000:0:0:0</channel>
-	<channel id="Alfa.Cinema.2.sa">1:0:1:A90:1:2A:DC00000:0:0:0</channel>
-	<channel id="Cinema.2.sa">1:0:1:A90:1:2A:DC00000:0:0:0</channel>
-	<channel id="MusicNow.ae">1:0:1:A94:1:2A:DCA0000:0:0:0</channel>
-	<channel id="Music.Now.sa">1:0:1:A94:1:2A:DCA0000:0:0:0</channel>
-	<channel id="OSNSeriesFirst.ae">1:0:19:130:3:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.Series.First.sa">1:0:19:130:3:800:DCA0000:0:0:0</channel>
-	<channel id="OSNComedy.ae">1:0:19:119C:2D:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.Comedy.sa">1:0:19:119C:2D:800:DCA0000:0:0:0</channel>
-	<channel id="StarWorldMiddleEast.hk">1:0:19:3F0:A:800:DCA0000:0:0:0</channel>
-	<channel id="Star.World.HD.sa">1:0:19:3F0:A:800:DCA0000:0:0:0</channel>
-	<channel id="TLCArabia.us">1:0:19:134:3:800:DCA0000:0:0:0</channel>
-	<channel id="TLC.HD.sa">1:0:19:134:3:800:DCA0000:0:0:0</channel>
-	<channel id="E!_HD">1:0:19:131:3:800:DCA0000:0:0:0</channel>
-	<channel id="E!.Entertainment.HD.sa">1:0:19:131:3:800:DCA0000:0:0:0</channel>
-	<channel id="OSNMezze.ae">1:0:19:1195:2D:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.Mezze.sa">1:0:19:1195:2D:800:DCA0000:0:0:0</channel>
-	<channel id="OSNLiving.ae">1:0:19:1196:2D:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.Living.sa">1:0:19:1196:2D:800:DCA0000:0:0:0</channel>
-	<channel id="MTVLive.us">1:0:19:1620:236:800:DCA0000:0:0:0</channel>
-	<channel id="MTV.Live.HD.sa">1:0:19:1620:236:800:DCA0000:0:0:0</channel>
-	<channel id="DisneyChannelMiddleEast.us">1:0:19:119B:2D:800:DCA0000:0:0:0</channel>
-	<channel id="Disney.HD.sa">1:0:19:119B:2D:800:DCA0000:0:0:0</channel>
-	<channel id="DisneyJuniorMiddleEast.us">1:0:1:DD:2:800:DC00000:0:0:0</channel>
-	<channel id="Disney.Junior.sa">1:0:1:DD:2:800:DC00000:0:0:0</channel>
-	<channel id="Nickelodeon.HD.sa">1:0:19:161F:236:800:DCA0000:0:0:0</channel>
-	<channel id="NickelodeonArabia.us">1:0:19:161F:236:800:DCA0000:0:0:0</channel>
-	<channel id="NickJrArabia.us">1:0:19:3E9:A:800:DCA0000:0:0:0</channel>
-	<channel id="Nick.Jr.sa">1:0:19:3E9:A:800:DCA0000:0:0:0</channel>
-	<channel id="OSNKidZone.ae">1:0:1:CE:2:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.Kid.Zone.TV.sa">1:0:1:CE:2:800:DCA0000:0:0:0</channel>
-	<channel id="NickToonsArabia.us">1:0:19:3EA:A:800:DCA0000:0:0:0</channel>
-	<channel id="NickToons.HD.sa">1:0:19:3EA:A:800:DCA0000:0:0:0</channel>
-	<channel id="OSNNews.ae">1:0:19:12F:3:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.News.sa">1:0:19:12F:3:800:DCA0000:0:0:0</channel>
-	<channel id="SkyNewsArabia.uk">1:0:19:7DC:14:800:DCA0000:0:0:0</channel>
-	<channel id="Sky.News.Arabia.HD.sa">1:0:19:7DC:14:800:DCA0000:0:0:0</channel>
-	<channel id="CNBC_Europe">1:0:1:CF:2:800:DC00000:0:0:0</channel>
-	<channel id="CNBC.sa">1:0:1:CF:2:800:DC00000:0:0:0</channel>
-	<channel id="VH1">1:0:1:DE:2:800:DCA0000:0:0:0</channel>
-	<channel id="VH1.sa">1:0:1:DE:2:800:DCA0000:0:0:0</channel>
-	<channel id="DiscoveryChannelMiddleEastAfrica.us">1:0:19:1621:236:800:DCA0000:0:0:0</channel>
-	<channel id="Discovery.HD.sa">1:0:19:1621:236:800:DCA0000:0:0:0</channel>
-	<channel id="DiscoveryScienceMiddleEast.us">1:0:19:3F1:A:800:DCA0000:0:0:0</channel>
-	<channel id="Discovery.Science.HD.sa">1:0:19:3F1:A:800:DCA0000:0:0:0</channel>
-	<channel id="Discovery_IDX_HD">1:0:19:1624:236:800:DCA0000:0:0:0</channel>
-	<channel id="Discovery.ID.sa">1:0:19:1624:236:800:DCA0000:0:0:0</channel>
-	<channel id="InvestigationDiscoveryEurope.us">1:0:1:D4:2:800:DC00000:0:0:0</channel>
-	<channel id="HistoryMiddleEast.us">1:0:19:161D:236:800:DCA0000:0:0:0</channel>
-	<channel id="HistoryMiddleEast.us">1:0:19:161D:236:800:DCA0000:0:0:0</channel>
-	<channel id="History.HD.sa">1:0:19:1623:236:800:DCA0000:0:0:0</channel>
-	<channel id="NationalGeographicMiddleEast.us">1:0:19:3EE:A:800:DCA0000:0:0:0</channel>
-	<channel id="Nat.Geo.HD.sa">1:0:19:3EE:A:800:DCA0000:0:0:0</channel>
-	<channel id="NationalGeographicWildMiddleEast.us">1:0:19:3EC:A:800:DCA0000:0:0:0</channel>
-	<channel id="Nat.Geo.Wild.HD.sa">1:0:19:3EC:A:800:DCA0000:0:0:0</channel>
-	<channel id="Nat_Geo_People_HD">1:0:19:3ED:A:800:DCA0000:0:0:0</channel>
-	<channel id="Nat.Geo.People.HD.sa">1:0:19:3ED:A:800:DCA0000:0:0:0</channel>
-	<channel id="TFC.sa">1:0:1:D9:2:800:DC00000:0:0:0</channel>
-	<channel id="Cinema.One.Global.sa">1:0:1:D8:2:800:DC00000:0:0:0</channel>
-	<channel id="TeleRadyoGlobal.ph">1:0:1:D7:2:800:DC00000:0:0:0</channel>
-	<channel id="MyxMiddleEast.ph">1:0:1:D1:2:800:DC00000:0:0:0</channel>
-	<channel id="AksyonTVInternational.ph">1:0:1:DC:2:800:DCA0000:0:0:0</channel>
-	<channel id="Cine.Mo.sa">1:0:1:DF:2:800:DC00000:0:0:0</channel>
-	<channel id="OSNSeries.ae">1:0:19:3EB:A:800:DCA0000:0:0:0</channel>
-	<channel id="ANC.sa">1:0:1:E0:2:800:DC00000:0:0:0</channel>
-	<channel id="OSN_Mix">1:0:19:1199:2D:800:DCA0000:0:0:0</channel>
-	<channel id="NHK_World-Japan">1:0:1:517:D:800:DCA0000:0:0:0</channel>
-	<channel id="AL.Hurra.HD.sa">1:0:1:1B9:10:6E:DCA0000:0:0:0</channel>
-	<channel id="AL.Hurra.HD.sa">1:0:1:1B9:10:6E:DCA0000:0:0:0</channel>
-	<channel id="YAS_Sports_HD">1:0:1:7:32:64:DCA2C93:0:0:0</channel>
-	<channel id="AD_Sports_3_HD">1:0:1:12D:C9:800:DCA0000:0:0:0</channel>
-	<channel id="AD_Sports_4_HD">1:0:1:12E:C9:800:DCA0000:0:0:0</channel>
-	<channel id="OSN.TV.Movies.Family.sa">1:0:19:1622:236:800:DCA0000:0:0:0</channel>
-	<channel id="ARTHekayat.sa">1:0:1:2BF:7:800:DCA0000:0:0:0:</channel>
-	<channel id="ARTAflam1.sa">1:0:1:2C2:7:800:DCA0000:0:0:0:</channel>
-	<channel id="ARTAflam2.sa">1:0:1:2C4:7:800:DCA0000:0:0:0:</channel>
-	<channel id="ARTCinema.sa">1:0:1:2C5:7:800:DCA0000:0:0:0:</channel>
-	<channel id="ARTHekayat2.sa">1:0:1:2C1:7:800:DCA0000:0:0:0:</channel>
-	<channel id="Al.Dafrah.TV.sa">1:0:19:19D3:42:800:DCA0000:0:0:0:</channel>
-	<channel id="E!.Entertainment.sa">1:0:19:131:3:800:DCA0000:0:0:0:</channel>
-	<channel id="Al.Aan.TV.sa">1:0:19:4:9c68:77e:DCA0000:0:0:0:</channel>
-	<channel id="KTV.Majlis.HD.sa">1:0:19:453:7594:77e:DC00000:0:0:0:</channel>
-	<channel id="Al.Qurain.HD.sa">1:0:19:454:7594:77e:DC00000:0:0:0:</channel>
-	<channel id="KTV1.HD.sa">1:0:19:44d:7594:77e:DC00000:0:0:0:</channel>
-	<channel id="KTV2.HD.sa">1:0:19:44d:7594:77e:DC00000:0:0:0:</channel>
-	<channel id="KTV.Arabe.HD.sa">1:0:19:452:7594:77e:DC00000:0:0:0:</channel>
-	<channel id="KTV.Ethraa.HD.sa">1:0:19:451:7594:77e:DC00000:0:0:0:</channel>
-	<channel id="KTV.Ethraa.HD.sa">1:0:19:44f:7594:77e:DC00000:0:0:0:</channel>
-	<channel id="KTV.Sport.HD.sa">1:0:19:44f:7594:77e:DC00000:0:0:0:</channel>
-	<channel id="KTV.Sport.Plus.HD.sa">1:0:19:450:7594:77e:DC00000:0:0:0:</channel>
-	<channel id="AlMamlaka.TV.sa">1:0:19:345:8:800:DCa0000:0:0:0:</channel>
-	<channel id="Al.Wosta.from.Al.Dhaid.sa">1:0:19:5:208:2be:DC00000:0:0:0:</channel>
-	<channel id="B4U.Aflam.sa">1:0:1:7:9c68:77e:DCa0000:0:0:0:</channel>
-	<channel id="B4U.Plus.sa">1:0:1:8:9c68:77e:DCa0000:0:0:0:</channel>
-	<channel id="BBC.Arabic.sa">1:0:1:c83:20:800:DCa0000:0:0:0:</channel>
-	<channel id="BBC.World.sa">1:0:1:20a:5:800:DCa0000:0:0:0:</channel>
-	<channel id="BabyTVEurope.uk">1:0:19:7d9:14:800:DCa0000:0:0:0:</channel>
-	<channel id="Bahrain.TV.sa">1:0:19:1b76:2bc:5000:DC00000:0:0:0:</channel>
-	<channel id="CGTN.cn">1:0:1:516:d:800:DCa0000:0:0:0:</channel>
-	<channel id="CGTN.Arabic.sa">1:0:1:51e:d:800:DCa0000:0:0:0:</channel>
-	<channel id="CNBC.Arabia.sa">1:0:19:1c95:49:800:DC00000:0:0:0:</channel>
-	<channel id="Dubai.Racing.1.HD.sa">1:0:19:19cc:42:800:DCa0000:0:0:0:</channel>
-	<channel id="Dubai.Racing.3.sa">1:0:1:126c:2f:800:DC00000:0:0:0:</channel>
-	<channel id="France.24.sa">1:0:1:c86:20:800:DCa0000:0:0:0:</channel>
-<channel id="Bloomberg.sa">1:0:1:C9:2:800:DCA0000:0:0:0:</channel><!-- Bloomberg -->
-<channel id="Crime.&amp;.Investigation.Network.sa">1:0:1:D4:2:800:DCA0000:0:0:0:</channel><!-- C I -->
-<channel id="Cartoon.Network.sa">1:0:19:119B:2D:800:DCA0000:0:0:0:</channel><!-- Cartoon Network HD -->
-<channel id="Cine.Mo.sa">1:0:1:DF:2:800:DCA0000:0:0:0:</channel><!-- CineMo -->
-<channel id="Cinema.One.Global.sa">1:0:1:D8:2:800:DCA0000:0:0:0:</channel><!-- Cinema One Global TV -->
-<channel id="Discovery.HD.sa">1:0:19:1621:236:800:DCA0000:0:0:0:</channel><!-- Discovery HD -->
-<channel id="Discovery.ID.sa">1:0:19:1624:236:800:DCA0000:0:0:0:</channel><!-- Discovery IDX HD -->
-<channel id="Fatafeat.sa">1:0:19:119E:2D:800:DCA0000:0:0:0:</channel><!-- Fatafeat -->
-<channel id="GMA.Life.TV.sa">1:0:1:D3:2:800:DCA0000:0:0:0:</channel><!-- GMA Life TV -->
-<channel id="GMA.News.TV.sa">1:0:1:CB:2:800:DCA0000:0:0:0:</channel><!-- GMA News TV -->
-<channel id="GMA.Pinoy.TV.sa">1:0:1:CA:2:800:DCA0000:0:0:0:</channel><!-- GMA Pinoy TV -->
-<channel id="History.HD.sa">1:0:19:161D:236:800:DCA0000:0:0:0:</channel><!-- History HD -->
-<channel id="Kapatid.TV5.sa">1:0:1:DC:2:800:DCA0000:0:0:0:</channel><!-- Kapatid TV5 -->
-<channel id="MTV.00s.sa">1:0:1:DE:2:800:DCA0000:0:0:0:</channel><!-- MTV 00s -->
-<channel id="MTV.Live.HD.sa">1:0:19:1620:236:800:DCA0000:0:0:0:</channel><!-- MTV Live HD -->
-<channel id="Moonbug.Kids.sa">1:0:19:136:3:800:DCA0000:0:0:0:</channel><!-- Moonbug Kids -->
-<channel id="Nick.Jr..sa">1:0:19:1626:236:800:DCA0000:0:0:0:</channel><!-- Nick Junior HD -->
-<channel id="NickToons.HD.sa">1:0:19:1627:236:800:DCA0000:0:0:0:</channel><!-- Nick Toons HD -->
-<channel id="Nickelodeon.HD.sa">1:0:19:161F:236:800:DCA0000:0:0:0:</channel><!-- Nickelodeon HD -->
-<channel id="OSN.TV.Comedy.sa">1:0:19:119C:2D:800:DCA0000:0:0:0:</channel><!-- OSNtv Comedy -->
-<channel id="OSN.TV.Crime.sa">1:0:19:133:3:800:DCA0000:0:0:0:</channel><!-- OSNtv Crime - Mux C -->
-<channel id="OSNtv Discovery Pop Up Fast and Curious">1:0:19:1628:236:800:DCA0000:0:0:0:</channel><!-- OSNtv Discovery Pop Up Fast and Curious -->
-<channel id="OSN.TV.Kids.sa">1:0:19:119A:2D:800:DCA0000:0:0:0:</channel><!-- OSNtv Kids -->
-<channel id="OSN.TV.Mezze.sa">1:0:19:1195:2D:800:DCA0000:0:0:0:</channel><!-- OSNtv Mezze -->
-<channel id="OSN.TV.Movies.Action.sa">1:0:19:12E:3:800:DCA0000:0:0:0:</channel><!-- OSNtv Movies Action -->
-<channel id="OSN.TV.Movies.Comedy.sa">1:0:19:1625:236:800:DCA0000:0:0:0:</channel><!-- OSNtv Movies Comedy -->
-<channel id="OSN.TV.Movies.Family.sa">1:0:19:1622:236:800:DCA0000:0:0:0:</channel><!-- OSNtv Movies Family -->
-<channel id="OSN.TV.Movies.Hollywood.sa">1:0:19:1197:2D:800:DCA0000:0:0:0:</channel><!-- OSNtv Movies Hollywood -->
-<channel id="OSNtv.Movies.Horror.sa">1:0:1:E1:2:800:DCA0000:0:0:0:</channel><!-- OSNtv Movies Horror -->
-<channel id="OSN.TV.Movies.Premiere.sa">1:0:19:12D:3:800:DCA0000:0:0:0:</channel><!-- OSNtv Movies Premiere -->
-<channel id="OSN.TV.News.sa">1:0:19:12F:3:800:DCA0000:0:0:0:</channel><!-- OSNtv News -->
-<channel id="OSN.TV.Now.sa">1:0:19:1196:2D:800:DCA0000:0:0:0:</channel><!-- OSNtv Now -->
-<channel id="OSN.TV.One.sa">1:0:1:CC:2:800:DCA0000:0:0:0:</channel><!-- OSNtv One -->
-<channel id="OSN.TV.Showcase.sa">1:0:19:130:3:800:DCA0000:0:0:0:</channel><!-- OSNtv Showcase -->
-<channel id="OSN.TV.Yahala.Aflam.sa">1:0:19:132:3:800:DCA0000:0:0:0:</channel><!-- OSNtv Yahala Aflam -->
-<channel id="OSN.TV.Yahala.Bil.Arabi.sa">1:0:19:135:3:800:DCA0000:0:0:0:</channel><!-- OSNtv Yahala Bil Arabi -->
-<channel id="OSN.TV.Yahala.sa">1:0:19:119D:2D:800:DCA0000:0:0:0:</channel><!-- OSNtv Yahala -->
-<channel id="Sky.News.HD.sa">1:0:1:DD:2:800:DCA0000:0:0:0:</channel><!-- Sky News HD -->
-<channel id="TFC.sa">1:0:1:D9:2:800:DCA0000:0:0:0:</channel><!-- TFC HD -->
-<channel id="TLC.HD.sa">1:0:19:134:3:800:DCA0000:0:0:0:</channel><!-- TLC HD -->
-<channel id="TVRI World">1:0:19:7D9:14:800:DCA0000:0:0:0:</channel><!-- TVRI World -->
-<channel id="TeleRadyo">1:0:1:D7:2:800:DCA0000:0:0:0:</channel><!-- TeleRadyo -->
-<channel id="Al.Safwa.sa">1:0:19:A8E:1:2A:DC00000:0:0:0:</channel><!-- Al Safwa -->
-<channel id="Alfa.Al.Yawm.sa">1:0:19:A8D:1:2A:DC00000:0:0:0:</channel><!-- Al Yawm -->
-<channel id="Alfa.Cinema.1.sa">1:0:19:A8F:1:2A:DC00000:0:0:0:</channel><!-- Cinema 1 -->
-<channel id="Alfa.Cinema.2.sa">1:0:19:A90:1:2A:DC00000:0:0:0:</channel><!-- Cinema 2 -->
-<channel id="Alfa.Fann.sa">1:0:19:A93:1:2A:DC00000:0:0:0:</channel><!-- Fann -->
-<channel id="Music.Now.sa">1:0:19:A94:1:2A:DC00000:0:0:0:</channel><!-- Music Now HD -->
-<channel id="Alfa.Series.+2.sa">1:0:19:A91:1:2A:DC00000:0:0:0:</channel><!-- Series +2 HD -->
-<channel id="Alfa.Series.Channel.sa">1:0:19:A92:1:2A:DC00000:0:0:0:</channel><!-- Series Channel HD -->
+
+	<!-- osn TV -->
+	<channel id="OSNtv Kidzone">1:0:1:CE:2:800:DCA0000:0:0:0</channel>
+	<channel id="CNBC Europe">1:0:1:CF:2:800:DCA0000:0:0:0</channel>
+	<channel id="CI">1:0:1:D4:2:800:DCA0000:0:0:0</channel>
+	<channel id="TFC HD">1:0:1:D9:2:800:DCA0000:0:0:0</channel>
+	<channel id="Sky News HD">1:0:1:DD:2:800:DCA0000:0:0:0</channel>
+	<channel id="MTV 00s">1:0:1:DE:2:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv Movies Horror">1:0:1:E1:2:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv Movies Premiere">1:0:19:12D:3:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv Movies Action">1:0:19:12E:3:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv Showcase">1:0:19:130:3:800:DCA0000:0:0:0</channel>
+	<channel id="E! HD">1:0:19:131:3:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv Yahala Aflam">1:0:19:132:3:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv Crime">1:0:19:133:3:800:DCA0000:0:0:0</channel>
+	<channel id="TLC HD">1:0:19:134:3:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv Yahala Bil Arabi">1:0:19:135:3:800:DCA0000:0:0:0</channel>
+	<channel id="Moonbug Kids">1:0:19:136:3:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv News">1:0:19:12F:3:800:DCA0000:0:0:0</channel>
+	<channel id="Alfa Al Yawm HD">1:0:19:A8D:1:2A:DC00000:0:0:0</channel>
+	<channel id="Alfa Al Safwa">1:0:19:A8E:1:2A:DC00000:0:0:0</channel>
+	<channel id="Alfa Cinema 1 HD">1:0:19:A8F:1:2A:DC00000:0:0:0</channel>
+	<channel id="Alfa Cinema 2 HD">1:0:19:A90:1:2A:DC00000:0:0:0</channel>
+	<channel id="Alfa Series +2 HD">1:0:19:A91:1:2A:DC00000:0:0:0</channel>
+	<channel id="Alfa Series HD">1:0:19:A92:1:2A:DC00000:0:0:0</channel>
+	<channel id="Alfa Fann HD">1:0:19:A93:1:2A:DC00000:0:0:0</channel>
+	<channel id="Alfa Music Now HD">1:0:19:A94:1:2A:DC00000:0:0:0</channel>
+	<channel id="OSNtv Mezze">1:0:19:1195:2D:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv Now">1:0:19:1196:2D:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv Movies Hollywood">1:0:19:1197:2D:800:DCA0000:0:0:0</channel>
+	<channel id="CNN HD">1:0:19:1198:2D:800:DCA0000:0:0:0</channel>
+	<channel id="Animal Planet HD">1:0:19:1199:2D:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv Kids">1:0:19:119A:2D:800:DCA0000:0:0:0</channel>
+	<channel id="Cartoon Network HD">1:0:19:119B:2D:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv Comedy">1:0:19:119C:2D:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv Yahala">1:0:19:119D:2D:800:DCA0000:0:0:0</channel>
+	<channel id="Fatafeat">1:0:19:119E:2D:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv">1:0:1:CC:2:800:DCA0000:0:0:0</channel>
+	<channel id="History HD">1:0:19:161D:236:800:DCA0000:0:0:0</channel>
+	<channel id="Nickelodeon HD">1:0:19:161F:236:800:DCA0000:0:0:0</channel>
+	<channel id="MTV Live HD">1:0:19:1620:236:800:DCA0000:0:0:0</channel>
+	<channel id="Discovery Channel HD">1:0:19:1621:236:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv Movies Family">1:0:19:1622:236:800:DCA0000:0:0:0</channel>
+	<channel id="H2 HD">1:0:19:1623:236:800:DCA0000:0:0:0</channel>
+	<channel id="Discovery IDX HD">1:0:19:1624:236:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv Movies Comedy">1:0:19:1625:236:800:DCA0000:0:0:0</channel>
+	<channel id="Nick Jr HD">1:0:19:1626:236:800:DCA0000:0:0:0</channel>
+	<channel id="NickToons HD">1:0:19:1627:236:800:DCA0000:0:0:0</channel>
+	<channel id="OSNtv POP UP BOURNE EVERY MINUTE">1:0:19:1628:236:800:DCA0000:0:0:0</channel>
+
+	<!-- osn Radio -->
+	<channel id="MOR Global Radio">1:0:2:7E0:14:800:DCA0000:0:0:0</channel>
+	<channel id="Alfa Tarabiyat Radio">1:0:1:A95:1:2A:DCA0000:0:0:0</channel>
+	<channel id="Alfa Khalijiyat Radio">1:0:1:A96:1:2A:DCA0000:0:0:0</channel>
+	<channel id="Alfa Monawaat Radio">1:0:1:A97:1:2A:DCA0000:0:0:0</channel>
 
 </channels>
-
-
-
-<channel id="Bloomberg.sa">1:0:1:C9:2:800:DCA0000:0:0:0:</channel><!-- Bloomberg -->
-<channel id="Crime.&amp;.Investigation.Network.sa">1:0:1:D4:2:800:DCA0000:0:0:0:</channel><!-- C I -->
-<channel id="Cartoon.Network.sa">1:0:19:119B:2D:800:DCA0000:0:0:0:</channel><!-- Cartoon Network HD -->
-<channel id="Cine.Mo.sa">1:0:1:DF:2:800:DCA0000:0:0:0:</channel><!-- CineMo -->
-<channel id="Cinema.One.Global.sa">1:0:1:D8:2:800:DCA0000:0:0:0:</channel><!-- Cinema One Global TV -->
-<channel id="Discovery.HD.sa">1:0:19:1621:236:800:DCA0000:0:0:0:</channel><!-- Discovery HD -->
-<channel id="Discovery.ID.sa">1:0:19:1624:236:800:DCA0000:0:0:0:</channel><!-- Discovery IDX HD -->
-<channel id="Fatafeat.sa">1:0:19:119E:2D:800:DCA0000:0:0:0:</channel><!-- Fatafeat -->
-<channel id="GMA.Life.TV.sa">1:0:1:D3:2:800:DCA0000:0:0:0:</channel><!-- GMA Life TV -->
-<channel id="GMA.News.TV.sa">1:0:1:CB:2:800:DCA0000:0:0:0:</channel><!-- GMA News TV -->
-<channel id="GMA.Pinoy.TV.sa">1:0:1:CA:2:800:DCA0000:0:0:0:</channel><!-- GMA Pinoy TV -->
-<channel id="History.HD.sa">1:0:19:161D:236:800:DCA0000:0:0:0:</channel><!-- History HD -->
-<channel id="Kapatid.TV5.sa">1:0:1:DC:2:800:DCA0000:0:0:0:</channel><!-- Kapatid TV5 -->
-<channel id="MTV.00s.sa">1:0:1:DE:2:800:DCA0000:0:0:0:</channel><!-- MTV 00s -->
-<channel id="MTV.Live.HD.sa">1:0:19:1620:236:800:DCA0000:0:0:0:</channel><!-- MTV Live HD -->
-<channel id="Moonbug.Kids.sa">1:0:19:136:3:800:DCA0000:0:0:0:</channel><!-- Moonbug Kids -->
-<channel id="Nick.Jr..sa">1:0:19:1626:236:800:DCA0000:0:0:0:</channel><!-- Nick Junior HD -->
-<channel id="NickToons.HD.sa">1:0:19:1627:236:800:DCA0000:0:0:0:</channel><!-- Nick Toons HD -->
-<channel id="Nickelodeon.HD.sa">1:0:19:161F:236:800:DCA0000:0:0:0:</channel><!-- Nickelodeon HD -->
-<channel id="OSN.TV.Comedy.sa">1:0:19:119C:2D:800:DCA0000:0:0:0:</channel><!-- OSNtv Comedy -->
-<channel id="OSN.TV.Crime.sa">1:0:19:133:3:800:DCA0000:0:0:0:</channel><!-- OSNtv Crime - Mux C -->
-<channel id="OSNtv Discovery Pop Up Fast and Curious">1:0:19:1628:236:800:DCA0000:0:0:0:</channel><!-- OSNtv Discovery Pop Up Fast and Curious -->
-<channel id="OSN.TV.Kids.sa">1:0:19:119A:2D:800:DCA0000:0:0:0:</channel><!-- OSNtv Kids -->
-<channel id="OSN.TV.Mezze.sa">1:0:19:1195:2D:800:DCA0000:0:0:0:</channel><!-- OSNtv Mezze -->
-<channel id="OSN.TV.Movies.Action.sa">1:0:19:12E:3:800:DCA0000:0:0:0:</channel><!-- OSNtv Movies Action -->
-<channel id="OSN.TV.Movies.Comedy.sa">1:0:19:1625:236:800:DCA0000:0:0:0:</channel><!-- OSNtv Movies Comedy -->
-<channel id="OSN.TV.Movies.Family.sa">1:0:19:1622:236:800:DCA0000:0:0:0:</channel><!-- OSNtv Movies Family -->
-<channel id="OSN.TV.Movies.Hollywood.sa">1:0:19:1197:2D:800:DCA0000:0:0:0:</channel><!-- OSNtv Movies Hollywood -->
-<channel id="OSNtv.Movies.Horror.sa">1:0:1:E1:2:800:DCA0000:0:0:0:</channel><!-- OSNtv Movies Horror -->
-<channel id="OSN.TV.Movies.Premiere.sa">1:0:19:12D:3:800:DCA0000:0:0:0:</channel><!-- OSNtv Movies Premiere -->
-<channel id="OSN.TV.News.sa">1:0:19:12F:3:800:DCA0000:0:0:0:</channel><!-- OSNtv News -->
-<channel id="OSN.TV.Now.sa">1:0:19:1196:2D:800:DCA0000:0:0:0:</channel><!-- OSNtv Now -->
-<channel id="OSN.TV.One.sa">1:0:1:CC:2:800:DCA0000:0:0:0:</channel><!-- OSNtv One -->
-<channel id="OSN.TV.Showcase.sa">1:0:19:130:3:800:DCA0000:0:0:0:</channel><!-- OSNtv Showcase -->
-<channel id="OSN.TV.Yahala.Aflam.sa">1:0:19:132:3:800:DCA0000:0:0:0:</channel><!-- OSNtv Yahala Aflam -->
-<channel id="OSN.TV.Yahala.Bil.Arabi.sa">1:0:19:135:3:800:DCA0000:0:0:0:</channel><!-- OSNtv Yahala Bil Arabi -->
-<channel id="OSN.TV.Yahala.sa">1:0:19:119D:2D:800:DCA0000:0:0:0:</channel><!-- OSNtv Yahala -->
-<channel id="Sky.News.HD.sa">1:0:1:DD:2:800:DCA0000:0:0:0:</channel><!-- Sky News HD -->
-<channel id="TFC.sa">1:0:1:D9:2:800:DCA0000:0:0:0:</channel><!-- TFC HD -->
-<channel id="TLC.HD.sa">1:0:19:134:3:800:DCA0000:0:0:0:</channel><!-- TLC HD -->
-<channel id="TVRI World">1:0:19:7D9:14:800:DCA0000:0:0:0:</channel><!-- TVRI World -->
-<channel id="TeleRadyo">1:0:1:D7:2:800:DCA0000:0:0:0:</channel><!-- TeleRadyo -->
-<channel id="Al.Safwa.sa">1:0:19:A8E:1:2A:DC00000:0:0:0:</channel><!-- Al Safwa -->
-<channel id="Alfa.Al.Yawm.sa">1:0:19:A8D:1:2A:DC00000:0:0:0:</channel><!-- Al Yawm -->
-<channel id="Alfa.Cinema.1.sa">1:0:19:A8F:1:2A:DC00000:0:0:0:</channel><!-- Cinema 1 -->
-<channel id="Alfa.Cinema.2.sa">1:0:19:A90:1:2A:DC00000:0:0:0:</channel><!-- Cinema 2 -->
-<channel id="Alfa.Fann.sa">1:0:19:A93:1:2A:DC00000:0:0:0:</channel><!-- Fann -->
-<channel id="Music.Now.sa">1:0:19:A94:1:2A:DC00000:0:0:0:</channel><!-- Music Now HD -->
-<channel id="Alfa.Series.+2.sa">1:0:19:A91:1:2A:DC00000:0:0:0:</channel><!-- Series +2 HD -->
-<channel id="Alfa.Series.Channel.sa">1:0:19:A92:1:2A:DC00000:0:0:0:</channel><!-- Series Channel HD -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
